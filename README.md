@@ -47,14 +47,15 @@ The dashboard analyses the following marketing metrics:
 
 Provides a high-level overview of overall marketing campaign performance using key performance indicators and visualisations.
 
-Image/Image/Executive Dashboard.png
+![Executive Dashboard](Image/Image/Executive Dashboard.png)
+
 ---
 
 ### 2. Audience Analysis
 
 Provides insights into campaign performance across different audience segments and helps identify differences in engagement and conversion behaviour.
 
-Image/Image/Auidence .png
+![Audience Dashboard](Image/Image/Audience 2.png)
 
 ---
 
@@ -62,7 +63,7 @@ Image/Image/Auidence .png
 
 Focuses on advertising costs, revenue, acquisition costs and return on advertising investment.
 
-Image/Image/Ad_spend.png
+![Financial Dashboard](Image/Image/Ad_spend.png)
 
 ---
 
@@ -70,7 +71,7 @@ Image/Image/Ad_spend.png
 
 Examines campaign performance across different countries and geographic locations.
 
-Image/Image/Audience 2.png
+![Geographic Dashboard](Image/Image/Media Platform.png)
 
 ---
 
